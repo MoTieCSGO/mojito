@@ -1,2 +1,2 @@
 # Mojito
-Recette pour dix personne
+Recette pour deux personne
